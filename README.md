@@ -1,1 +1,1 @@
-![profile](assets/profile.jpeg)
+<img src="assets/profile.jpeg" width="100%">
